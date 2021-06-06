@@ -74,6 +74,15 @@ Understanding Bayes: How to become a Bayesian in eight easy steps\
 
 ## Career
 
+How to write a killer Software Engineering résumé
+<sup>→ https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/</sup>
+
+Who Killed the Junior Developer? Five Unusual Suspects.
+<sup>→ https://www.briansnotes.io/article/who-killed-the-junior-developer-five-suspects/</sup>
+
+Your Third Job in Software
+<sup>→ https://www.briansnotes.io/article/your-third-job-in-software/</sup>
+
 A guide to using your career to help solve the world’s most pressing problems\
 <sup>→ https://80000hours.org/key-ideas/</sup>
 
