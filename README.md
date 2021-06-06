@@ -1,12 +1,13 @@
+<sup><i>Last update: June 6, 2021</i></sup>
+---
+
 # Reading Log
 
-_Last update: June 6, 2021_
+Here you find my reading log consisting of articles, papers, books or websites I enjoyed. If you have recommendations, remarks about broken links or anything else, feel free to reach out!
 
-Here you find my reading log consisting of articles, papers, books or websites I enjoyed or saved here for later.
-
-If you have recommendations, remarks about broken links or anything else, feel free to reach out!
-
+## Table of Contents
 - [Reading Log](#reading-log)
+	- [Table of Contents](#table-of-contents)
 	- [Generative Art](#generative-art)
 	- [Machine Learning](#machine-learning)
 	- [Statistics](#statistics)
