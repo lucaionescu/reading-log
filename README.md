@@ -194,3 +194,7 @@ Modeling the Human Trajectory\
 
 How to be resilient\
 <sup>→ https://psyche.co/guides/resilience-is-like-a-muscle-build-it-up-when-life-pulls-down</sup>
+
+---
+
+<sup>↑ [Back to top](#closed_book-reading-log)</sup>
