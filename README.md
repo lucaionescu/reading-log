@@ -128,16 +128,27 @@ Paul Graham - How to write usefully\
 Mary Dash’s Writing Tips\
 <sup>→ https://plainlanguage.gov/resources/articles/dash-writing-tips/</sup>
 
-## Misc
+## Art & Culture
 
 Sumi-e: All You Need to Know About Japanese Ink Painting\
 <sup>→ https://japanobjects.com/features/sumie</sup>
 
+Il Maestro\
+<sup>→ https://harpers.org/archive/2021/03/il-maestro-federico-fellini-martin-scorsese/</sup>
+
+The Curation/Search Radicalization Spiral\
+<sup>→ https://hapgood.us/2019/05/07/the-curation-search-radicalization-spiral/</sup>
+
 Politics is way too meta\
 <sup>→ https://www.lesswrong.com/posts/Js34Ez9nrDeJCTYQL/politics-is-way-too-meta</sup>
 
-Il Maestro\
-<sup>→ https://harpers.org/archive/2021/03/il-maestro-federico-fellini-martin-scorsese/</sup>
+Unholy Unions\
+<sup>→ https://speculations.substack.com/p/unholy-unions</sup>
+
+What is an NFT? – Everything You Need to Know about Crypto Media and Tokens\
+<sup>→ https://www.timstodz.com/what-is-an-nft/</sup>
+
+## Misc
 
 6 Ways to Remain Productive Without Productivity Guilt\
 <sup>→ https://crm.org/articles/6-ways-to-remain-productive-without-productivity-guilt</sup>
@@ -154,17 +165,8 @@ What I Learned About Love When I Stopped Being Honest\
 That Is Not How Your Brain Works\
 <sup>→ https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works</sup>
 
-The Curation/Search Radicalization Spiral\
-<sup>→ https://hapgood.us/2019/05/07/the-curation-search-radicalization-spiral/</sup>
-
 Gigerenzer’s simple rules\
 <sup>→ https://www.foundingfuel.com/article/gigerenzers-simple-rules/</sup>
-
-Unholy Unions\
-<sup>→ https://speculations.substack.com/p/unholy-unions</sup>
-
-What is an NFT? – Everything You Need to Know about Crypto Media and Tokens\
-<sup>→ https://www.timstodz.com/what-is-an-nft/</sup>
 
 Mistaken\
 <sup>→ https://aeon.co/essays/i-think-therefore-i-make-mistakes-and-change-my-mind</sup>
