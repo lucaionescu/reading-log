@@ -15,7 +15,7 @@ If you have recommendations, remarks about broken links or anything else, feel f
 	- [Writing](#writing)
 	- [Misc](#misc)
 
-### Generative Art
+## Generative Art
 
 Subscapes (Part 2 – Traits)\
 <sup>→ https://mattdesl.substack.com/p/subscapes-part-2-traits</sup>
@@ -35,7 +35,7 @@ Robots and Generative Art and Python, oh my!\
 Tyler Hobbs - Flow Fields\
 <sup>→ https://tylerxhobbs.com/essays/2020/flow-fields</sup>
 
-### Machine Learning
+## Machine Learning
 
 The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks\
 <sup>→ https://arxiv.org/abs/1803.03635</sup>
@@ -73,7 +73,7 @@ The State of Transfer Learning in NLP\
 Attention in Psychology, Neuroscience, and Machine Learning\
 <sup>→ https://www.frontiersin.org/articles/10.3389/fncom.2020.00029/full</sup>
 
-### Statistics
+## Statistics
 
 Visual Information Theory\
 <sup>→ http://colah.github.io/posts/2015-09-Visual-Information/</sup>
@@ -81,7 +81,7 @@ Visual Information Theory\
 Understanding Bayes: How to become a Bayesian in eight easy steps\
 <sup>→ https://alexanderetz.com/2016/02/07/understanding-bayes-how-to-become-a-bayesian-in-eight-easy-steps/</sup>
 
-### Career
+## Career
 
 A guide to using your career to help solve the world’s most pressing problems\
 <sup>→ https://80000hours.org/key-ideas/</sup>
@@ -98,7 +98,7 @@ A Hackers Guide To Job Hunting\
 A Crash Course for Your First Job in Software\
 <sup>→ https://stackoverflow.blog/2019/09/05/they-didnt-teach-us-this-a-crash-course-for-your-first-job-in-software/</sup>
 
-### Computer Science
+## Computer Science
 
 The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)\
 <sup>→ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/</sup>
@@ -130,14 +130,14 @@ What is the optimal algorithm for the game 2048?\
 Unsupervised Keyphrase Extraction\
 <sup>→ https://amitness.com/keyphrase-extraction/</sup>
 
-### Writing
+## Writing
 Paul Graham - How to write usefully\
 <sup>→ http://paulgraham.com/useful.html</sup>
 
 Mary Dash’s Writing Tips\
 <sup>→ https://plainlanguage.gov/resources/articles/dash-writing-tips/</sup>
 
-### Misc
+## Misc
 
 Sumi-e: All You Need to Know About Japanese Ink Painting\
 <sup>→ https://japanobjects.com/features/sumie</sup>
