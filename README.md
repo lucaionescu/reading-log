@@ -4,7 +4,7 @@
 
 # :closed_book: Reading Log
 
-Here you find my reading log consisting of articles, papers, books or websites I enjoyed. If you have recommendations, remarks about broken links or anything else, feel free to open a PR!
+My reading log consisting of articles, papers, books or websites I enjoyed. If you have recommendations, remarks about broken links or anything else, feel free to open a PR!
 
 ## Generative Art
 
