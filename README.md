@@ -5,17 +5,6 @@
 
 Here you find my reading log consisting of articles, papers, books or websites I enjoyed. If you have recommendations, remarks about broken links or anything else, feel free to reach out!
 
-## Table of Contents
-- [Reading Log](#reading-log)
-	- [Table of Contents](#table-of-contents)
-	- [Generative Art](#generative-art)
-	- [Machine Learning](#machine-learning)
-	- [Statistics](#statistics)
-	- [Career](#career)
-	- [Computer Science](#computer-science)
-	- [Writing](#writing)
-	- [Misc](#misc)
-
 ## Generative Art
 
 Subscapes (Part 2 – Traits)\
