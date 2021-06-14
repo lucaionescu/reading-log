@@ -1,4 +1,4 @@
-<sup><i>Last update: June 6, 2021</i></sup>
+<sup><i>Last update: June 14, 2021</i></sup>
 
 ---
 
@@ -74,6 +74,12 @@ Understanding Bayes: How to become a Bayesian in eight easy steps\
 
 ## Career
 
+The Modern Trap of Turning Hobbies Into Hustles\
+<sup>→ https://repeller.com/trap-of-turning-hobbies-into-hustles/</sup>
+
+A Freelancer and a Full-Timer Debate Whether the Grass Is Actually Greener\
+<sup>→ https://repeller.com/freelance-versus-full-time-debate/</sup>
+
 How to write a killer Software Engineering résumé\
 <sup>→ https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/</sup>
 
@@ -137,7 +143,10 @@ Paul Graham - How to write usefully\
 Mary Dash’s Writing Tips\
 <sup>→ https://plainlanguage.gov/resources/articles/dash-writing-tips/</sup>
 
-## Art & Culture
+How to feel at home on the Internet\
+<sup>→ https://personal.jatan.space/p/get-a-domain</sup>
+
+## Arts & Culture
 
 Sumi-e: All You Need to Know About Japanese Ink Painting\
 <sup>→ https://japanobjects.com/features/sumie</sup>
@@ -158,6 +167,15 @@ What is an NFT? – Everything You Need to Know about Crypto Media and Tokens\
 <sup>→ https://www.timstodz.com/what-is-an-nft/</sup>
 
 ## Misc
+
+The cult of busyness: How being busy became a status symbol\
+<sup>→ https://globalnews.ca/news/3343760/the-cult-of-busyness-how-being-busy-became-a-status-symbol/</sup>
+
+HOWTO: Be more productive\
+<sup>→ http://www.aaronsw.com/weblog/productivity</sup>
+
+Desertification in Romania\
+<sup>→ https://www.geographyrealm.com/desertification-in-romania/</sup>
 
 6 Ways to Remain Productive Without Productivity Guilt\
 <sup>→ https://crm.org/articles/6-ways-to-remain-productive-without-productivity-guilt</sup>
