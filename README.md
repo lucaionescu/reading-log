@@ -1,4 +1,4 @@
-<sup><i>Last update: June 14, 2021</i></sup>
+<sup><i>Last update: June 16, 2021</i></sup>
 
 ---
 
@@ -73,6 +73,9 @@ Understanding Bayes: How to become a Bayesian in eight easy steps\
 <sup>→ https://alexanderetz.com/2016/02/07/understanding-bayes-how-to-become-a-bayesian-in-eight-easy-steps/</sup>
 
 ## Career
+
+Why It’s So Hard for Companies to Hold on to Millennials\
+<sup>→ https://recruitingdaily.com/hard-companies-hold-millennials/</sup>
 
 The Modern Trap of Turning Hobbies Into Hustles\
 <sup>→ https://repeller.com/trap-of-turning-hobbies-into-hustles/</sup>
@@ -167,6 +170,9 @@ What is an NFT? – Everything You Need to Know about Crypto Media and Tokens\
 <sup>→ https://www.timstodz.com/what-is-an-nft/</sup>
 
 ## Misc
+
+https://personal.jatan.space/p/arguments-for-digital-privacy\
+<sup>→ Arguments against “I have nothing to hide” on digital privacy</sup>
 
 The cult of busyness: How being busy became a status symbol\
 <sup>→ https://globalnews.ca/news/3343760/the-cult-of-busyness-how-being-busy-became-a-status-symbol/</sup>
