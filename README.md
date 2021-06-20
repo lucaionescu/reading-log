@@ -184,8 +184,8 @@ The Longevity Project: Decades of Data Reveal Paths to Long Life\
 To Win At Risk By Using Systems Thinking\
 <sup>→ https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-byHow</sup>
 
-https://personal.jatan.space/p/arguments-for-digital-privacy\
-<sup>→ Arguments against “I have nothing to hide” on digital privacy</sup>
+Arguments against “I have nothing to hide” on digital privacy\
+<sup>→ https://personal.jatan.space/p/arguments-for-digital-privacy</sup>
 
 The cult of busyness: How being busy became a status symbol\
 <sup>→ https://globalnews.ca/news/3343760/the-cult-of-busyness-how-being-busy-became-a-status-symbol/</sup>
