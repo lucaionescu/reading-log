@@ -1,4 +1,4 @@
-<sup><i>Last update: June 16, 2021</i></sup>
+<sup><i>Last update: June 20, 2021</i></sup>
 
 ---
 
@@ -140,6 +140,10 @@ Unsupervised Keyphrase Extraction\
 <sup>→ https://amitness.com/keyphrase-extraction/</sup>
 
 ## Writing
+
+I wish I could write this well\
+<sup>→ https://blog.royalsloth.eu/posts/i-wish-i-could-write-this-well/</sup>
+
 Paul Graham - How to write usefully\
 <sup>→ http://paulgraham.com/useful.html</sup>
 
@@ -170,6 +174,15 @@ What is an NFT? – Everything You Need to Know about Crypto Media and Tokens\
 <sup>→ https://www.timstodz.com/what-is-an-nft/</sup>
 
 ## Misc
+
+How to be lucky\
+<sup>→ https://psyche.co/guides/how-to-open-up-to-serendipity-and-create-your-own-luck</sup>
+
+The Longevity Project: Decades of Data Reveal Paths to Long Life\
+<sup>→ https://www.theatlantic.com/health/archive/2011/03/the-longevity-project-decades-of-data-reveal-paths-to-long-life/72290/</sup>
+
+To Win At Risk By Using Systems Thinking\
+<sup>→ https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-byHow</sup>
 
 https://personal.jatan.space/p/arguments-for-digital-privacy\
 <sup>→ Arguments against “I have nothing to hide” on digital privacy</sup>
