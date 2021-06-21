@@ -4,8 +4,6 @@
 
 # :closed_book: Reading Log
 
-My reading log consisting of articles, papers or websites I enjoyed, loosely sorted by most recent.
-
 Writing tools I learned from The Economist\
 <sup>→ https://builtbywords.substack.com/p/writing-tools-i-learned-from-the</sup>
 
