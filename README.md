@@ -1,12 +1,43 @@
-<sup><i>Last update: June 20, 2021</i></sup>
+<sup><i>Last update: June 21, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
 
-My reading log consisting of articles, papers, books or websites I enjoyed. If you have recommendations, remarks about broken links or anything else, feel free to open a PR!
+My reading log consisting of articles, papers or websites I enjoyed, loosely sorted by most recent.
 
-## Generative Art
+Writing tools I learned from The Economist\
+<sup>→ https://builtbywords.substack.com/p/writing-tools-i-learned-from-the</sup>
+
+Advancing sports analytics through AI research\
+<sup>→ https://deepmind.com/blog/article/advancing-sports-analytics-through-ai</sup>
+
+The story BCG offered me $16,000 not to tell\
+<sup>→ https://thetech.com/2010/04/09/dubai-v130-n18</sup>
+
+How to be lucky\
+<sup>→ https://psyche.co/guides/how-to-open-up-to-serendipity-and-create-your-own-luck</sup>
+
+The Longevity Project: Decades of Data Reveal Paths to Long Life\
+<sup>→ https://www.theatlantic.com/health/archive/2011/03/the-longevity-project-decades-of-data-reveal-paths-to-long-life/72290/</sup>
+
+To Win At Risk By Using Systems Thinking\
+<sup>→ https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-byHow</sup>
+
+Arguments against “I have nothing to hide” on digital privacy\
+<sup>→ https://personal.jatan.space/p/arguments-for-digital-privacy</sup>
+
+Money\
+<sup>→ https://gazzini.com/essays/posts/money/</sup>
+
+Why It’s So Hard for Companies to Hold on to Millennials\
+<sup>→ https://recruitingdaily.com/hard-companies-hold-millennials/</sup>
+
+The Modern Trap of Turning Hobbies Into Hustles\
+<sup>→ https://repeller.com/trap-of-turning-hobbies-into-hustles/</sup>
+
+A Freelancer and a Full-Timer Debate Whether the Grass Is Actually Greener\
+<sup>→ https://repeller.com/freelance-versus-full-time-debate/</sup>
 
 Subscapes (Part 2 – Traits)\
 <sup>→ https://mattdesl.substack.com/p/subscapes-part-2-traits</sup>
@@ -25,8 +56,6 @@ Robots and Generative Art and Python, oh my!\
 
 Tyler Hobbs - Flow Fields\
 <sup>→ https://tylerxhobbs.com/essays/2020/flow-fields</sup>
-
-## Machine Learning
 
 The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks\
 <sup>→ https://arxiv.org/abs/1803.03635</sup>
@@ -64,24 +93,11 @@ The State of Transfer Learning in NLP\
 Attention in Psychology, Neuroscience, and Machine Learning\
 <sup>→ https://www.frontiersin.org/articles/10.3389/fncom.2020.00029/full</sup>
 
-## Statistics
-
 Visual Information Theory\
 <sup>→ http://colah.github.io/posts/2015-09-Visual-Information/</sup>
 
 Understanding Bayes: How to become a Bayesian in eight easy steps\
 <sup>→ https://alexanderetz.com/2016/02/07/understanding-bayes-how-to-become-a-bayesian-in-eight-easy-steps/</sup>
-
-## Career
-
-Why It’s So Hard for Companies to Hold on to Millennials\
-<sup>→ https://recruitingdaily.com/hard-companies-hold-millennials/</sup>
-
-The Modern Trap of Turning Hobbies Into Hustles\
-<sup>→ https://repeller.com/trap-of-turning-hobbies-into-hustles/</sup>
-
-A Freelancer and a Full-Timer Debate Whether the Grass Is Actually Greener\
-<sup>→ https://repeller.com/freelance-versus-full-time-debate/</sup>
 
 How to write a killer Software Engineering résumé\
 <sup>→ https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/</sup>
@@ -106,8 +122,6 @@ A Hackers Guide To Job Hunting\
 
 A Crash Course for Your First Job in Software\
 <sup>→ https://stackoverflow.blog/2019/09/05/they-didnt-teach-us-this-a-crash-course-for-your-first-job-in-software/</sup>
-
-## Computer Science
 
 The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)\
 <sup>→ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/</sup>
@@ -139,8 +153,6 @@ What is the optimal algorithm for the game 2048?\
 Unsupervised Keyphrase Extraction\
 <sup>→ https://amitness.com/keyphrase-extraction/</sup>
 
-## Writing
-
 I wish I could write this well\
 <sup>→ https://blog.royalsloth.eu/posts/i-wish-i-could-write-this-well/</sup>
 
@@ -152,8 +164,6 @@ Mary Dash’s Writing Tips\
 
 How to feel at home on the Internet\
 <sup>→ https://personal.jatan.space/p/get-a-domain</sup>
-
-## Arts & Culture
 
 Sumi-e: All You Need to Know About Japanese Ink Painting\
 <sup>→ https://japanobjects.com/features/sumie</sup>
@@ -172,20 +182,6 @@ Unholy Unions\
 
 What is an NFT? – Everything You Need to Know about Crypto Media and Tokens\
 <sup>→ https://www.timstodz.com/what-is-an-nft/</sup>
-
-## Misc
-
-How to be lucky\
-<sup>→ https://psyche.co/guides/how-to-open-up-to-serendipity-and-create-your-own-luck</sup>
-
-The Longevity Project: Decades of Data Reveal Paths to Long Life\
-<sup>→ https://www.theatlantic.com/health/archive/2011/03/the-longevity-project-decades-of-data-reveal-paths-to-long-life/72290/</sup>
-
-To Win At Risk By Using Systems Thinking\
-<sup>→ https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-byHow</sup>
-
-Arguments against “I have nothing to hide” on digital privacy\
-<sup>→ https://personal.jatan.space/p/arguments-for-digital-privacy</sup>
 
 The cult of busyness: How being busy became a status symbol\
 <sup>→ https://globalnews.ca/news/3343760/the-cult-of-busyness-how-being-busy-became-a-status-symbol/</sup>
