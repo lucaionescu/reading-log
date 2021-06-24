@@ -1,8 +1,26 @@
-<sup><i>Last update: June 21, 2021</i></sup>
+<sup><i>Last update: June 24, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
+
+Javascript and the next decade of data programming\
+<sup>→ http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/</sup>
+
+Crafting "Crafting Interpreters"\
+<sup>→ http://journal.stuffwithstuff.com</sup>
+
+What Happens in The Dark Knight\
+<sup>→ http://www.aaronsw.com/weblog/tdk</sup>
+
+Personal values\
+<sup>→ https://www.julian.com/blog/life-planning</sup>
+
+Mental models\
+<sup>→ https://www.julian.com/blog/mental-model-examples</sup>
+
+Vanity metrics\
+<sup>→ https://www.julian.com/blog/vanity-metrics</sup>
 
 Writing tools I learned from The Economist\
 <sup>→ https://builtbywords.substack.com/p/writing-tools-i-learned-from-the</sup>
