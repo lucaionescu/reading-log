@@ -1,8 +1,11 @@
-<sup><i>Last update: June 24, 2021</i></sup>
+<sup><i>Last update: July 8, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
+
+Subscapes (Part 3 – Code)
+<sup>→ https://mattdesl.substack.com/p/subscapes-part-2</sup>
 
 Javascript and the next decade of data programming\
 <sup>→ http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/</sup>
