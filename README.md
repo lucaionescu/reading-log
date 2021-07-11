@@ -1,11 +1,17 @@
-<sup><i>Last update: July 8, 2021</i></sup>
+<sup><i>Last update: July 11, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
 
+How To Get Better at Painting – Without Painting Anything\
+<sup>→ http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything</sup>
+
+Henry Rollins on defining success\
+<sup>→ https://thecreativeindependent.com/people/henry-rollins-on-defining-success/</sup>
+
 Subscapes (Part 3 – Code)\
-<sup>→ https://mattdesl.substack.com/p/subscapes-part-2</sup>
+<sup>→ https://mattdesl.substack.com/p/subscapes-part-3</sup>
 
 Javascript and the next decade of data programming\
 <sup>→ http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/</sup>
