@@ -52,8 +52,8 @@ How to be lucky\
 The Longevity Project: Decades of Data Reveal Paths to Long Life\
 <sup>→ https://www.theatlantic.com/health/archive/2011/03/the-longevity-project-decades-of-data-reveal-paths-to-long-life/72290/</sup>
 
-To Win At Risk By Using Systems Thinking\
-<sup>→ https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-byHow</sup>
+How To Win At Risk By Using Systems Thinking\
+<sup>→ https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by</sup>
 
 Arguments against “I have nothing to hide” on digital privacy\
 <sup>→ https://personal.jatan.space/p/arguments-for-digital-privacy</sup>
