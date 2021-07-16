@@ -1,8 +1,14 @@
-<sup><i>Last update: July 11, 2021</i></sup>
+<sup><i>Last update: July 16, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
+
+Spotting a cherry-picked paper\
+<sup>→ https://www.notion.so/Spotting-a-cherry-picked-paper-19a91d062ef8481b964895a7a43c8429</sup>
+
+Applied NLP Thinking: How to Translate Problems into Solutions\
+<sup>→ https://explosion.ai/blog/applied-nlp-thinking</sup>
 
 How To Get Better at Painting – Without Painting Anything\
 <sup>→ http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything</sup>
