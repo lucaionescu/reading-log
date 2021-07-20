@@ -1,8 +1,17 @@
-<sup><i>Last update: July 16, 2021</i></sup>
+<sup><i>Last update: July 20, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
+
+Datamining a flat in Munich\
+<sup>→ https://funnybretzel.com/datamining-a-flat-in-munich/</sup>
+
+Building ETL Pipelines with Clojure and Transducers\
+<sup>→ https://www.grammarly.com/blog/engineering/building-etl-pipelines-with-clojure-and-transducers/</sup>
+
+How I Start Clojure\
+<sup>→ https://howistart.org/posts/clojure/1/</sup>
 
 Spotting a cherry-picked paper\
 <sup>→ https://www.notion.so/Spotting-a-cherry-picked-paper-19a91d062ef8481b964895a7a43c8429</sup>
