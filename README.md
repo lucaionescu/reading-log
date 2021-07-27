@@ -1,8 +1,20 @@
-<sup><i>Last update: July 20, 2021</i></sup>
+<sup><i>Last update: July 27, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
+
+How disinformation evolved in 2020\
+<sup>→ https://www.brookings.edu/techstream/how-disinformation-evolved-in-2020/</sup>
+
+The four noisy horsemen of Perl hate\
+<sup>→ https://phoenixtrap.com/2021/07/20/the-four-noisy-horsemen-of-perl-hate/</sup>
+
+The Fire That Forged Giannis Antetokounmpo\
+<sup>→ https://www.theringer.com/2021/7/21/22585355/giannis-antetokounmpo-book-excerpt-the-improbable-rise</sup>
+
+Please, enough with the dead butterflies!\
+<sup>→ https://www.emilydamstra.com/please-enough-dead-butterflies/</sup>
 
 Datamining a flat in Munich\
 <sup>→ https://funnybretzel.com/datamining-a-flat-in-munich/</sup>
