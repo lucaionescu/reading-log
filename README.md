@@ -1,8 +1,23 @@
-<sup><i>Last update: July 27, 2021</i></sup>
+<sup><i>Last update: August 4, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
+
+Reconsidering the way I explain programming\
+<sup>→ https://blog.frantic.im/all/explain-programming/</sup>
+
+Your Lifestyle Has Already Been Designed\
+<sup>→ https://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/</sup>
+
+How I built a business that lets me live on the beach full time\
+<sup>→ https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html</sup>
+
+Is Data Engineering For You?\
+<sup>→ https://towardsdatascience.com/is-data-engineering-for-you-990f106f91e7</sup>
+
+My (Simple) Workflow To Design And Develop A Portfolio Website\
+<sup>→ https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/</sup>
 
 How disinformation evolved in 2020\
 <sup>→ https://www.brookings.edu/techstream/how-disinformation-evolved-in-2020/</sup>
