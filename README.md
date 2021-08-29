@@ -4,6 +4,24 @@
 
 # :closed_book: Reading Log
 
+When Correlation is Better than Causation\
+<sup>→ https://www.narrator.ai/blog/when-correlation-is-better-than-causation/</sup>
+
+Mental health impacts of a Big Tech job\
+<sup>→ https://oilyraincloud.com/2021/08/16/mental-health-impacts-of-a-big-tech-job/</sup>
+
+How ‘On-Chain’ is Art Blocks?\
+<sup>→ https://medium.com/the-link-art-blocks/how-on-chain-is-art-blocks-5ccd553dd370</sup>
+
+The Top Shelf Principle\
+<sup>→ https://listed.to/@mo/4733/the-top-shelf-principle</sup>
+
+An Old Hacker's Tips On Staying Employed\
+<sup>→ https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed</sup>
+
+What makes Generative Art hard?\
+<sup>→ https://bendotk.com/writing/what-makes-generative-art-hard</sup>
+
 6 Years of Professional Clojure\
 <sup>→ https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983</sup>
 
