@@ -4,6 +4,18 @@
 
 # :closed_book: Reading Log
 
+The Art of Reading the News\
+<sup>→ https://advait.live/news/</sup>
+
+What’s it like to work at Big Tech?\
+<sup>→ https://oilyraincloud.com/2021/08/13/whats-it-like-to-work-at-big-tech/</sup>
+
+Why Is It So Hard to Be Rational?\
+<sup>→ https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational</sup>
+
+The Proper Way to Argue\
+<sup>→ https://www.psychologytoday.com/us/blog/fighting-fear/201209/the-proper-way-argue</sup>
+
 When Correlation is Better than Causation\
 <sup>→ https://www.narrator.ai/blog/when-correlation-is-better-than-causation/</sup>
 
