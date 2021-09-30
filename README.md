@@ -4,6 +4,27 @@
 
 # :closed_book: Reading Log
 
+When good data analyses fail to deliver the results you expect\
+<sup>→ https://www.narrator.ai/blog/when-good-data-analyses-fail-to-deliver-the-results-you-expect/</sup>
+
+The Lie We Love\
+<sup>→ https://foreignpolicy.com/2009/10/06/the-lie-we-love/</sup>
+
+They saw a YouTube video. Then they got Tourette’s\
+<sup>→ https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann</sup>
+
+Agency\
+<sup>→ https://chiefofstuff.substack.com/p/agency</sup>
+
+Career advice for people with bad luck\
+<sup>→ https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad</sup>
+
+Mistakes I've Made in AWS\
+<sup>→ https://laravel-news.com/aws-mistakes</sup>
+
+Are you principled or just plain stupid?\
+<sup>→ https://jjude.com/pors</sup>
+
 The Art of Reading the News\
 <sup>→ https://advait.live/news/</sup>
 
