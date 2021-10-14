@@ -1,8 +1,32 @@
-<sup><i>Last update: September 30, 2021</i></sup>
+<sup><i>Last update: October 14, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
+
+My Logging Best Practices\
+<sup>→ https://tuhrig.de/my-logging-best-practices/</sup>
+
+Some thoughts on the real world by one who glimpsed it and fled\
+<sup>→ https://web.mit.edu/jmorzins/www/C-H-speech.html</sup>
+
+On Unbeatable Video Games\
+<sup>→ https://residentcontrarian.substack.com/p/on-unbeatable-video-games</sup>
+
+How does it feel to make generative art?\
+<sup>→ https://www.amygoodchild.com/blog/how-does-it-feel-to-make-generative-art</sup>
+
+AI Is No Match for the Quirks of Human Intelligence\
+<sup>→ https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence/</sup>
+
+Book Review: The Revolt Of The Public\
+<sup>→ https://astralcodexten.substack.com/p/book-review-the-revolt-of-the-public</sup>
+
+Worst Case\
+<sup>→ https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case</sup>
+
+Diaries of an Accidental Art Addict\
+<sup>→ https://galaxyrtk.substack.com/p/diaries-of-an-accidental-art-addict</sup>
 
 When good data analyses fail to deliver the results you expect\
 <sup>→ https://www.narrator.ai/blog/when-good-data-analyses-fail-to-deliver-the-results-you-expect/</sup>
