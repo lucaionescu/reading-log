@@ -1,8 +1,23 @@
-<sup><i>Last update: October 14, 2021</i></sup>
+<sup><i>Last update: October 22, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
+
+Understanding AWK\
+<sup>→ https://earthly.dev/blog/awk-examples/</sup>
+
+136 facts every web dev should know before they burn out and turn to landscape painting or nude modelling\
+<sup>→ https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/</sup>
+
+What is your labor worth? Tech compensation in 2021\
+<sup>→ https://jacobian.org/2021/oct/13/tech-salaries-2021/</sup>
+
+What to learn\
+<sup>→ https://danluu.com/learn-what/</sup>
+
+Pretty much all i want in life…\
+<sup>→ https://www.amygoodchild.com/blog/all-i-want-is-woah-cool</sup>
 
 My Logging Best Practices\
 <sup>→ https://tuhrig.de/my-logging-best-practices/</sup>
