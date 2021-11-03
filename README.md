@@ -4,6 +4,18 @@
 
 # :closed_book: Reading Log
 
+I built the entire universe (and beyond) in JavaScript\
+<sup>→ https://www.jesuisundev.com/en/i-built-the-entire-universe-in-javascript/</sup>
+
+Data Structures & Algorithms I Used Working at Tech Companies\
+<sup>→ https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/</sup>
+
+Finding my inner Wes Anderson with Babashka\
+<sup>→ https://javahippie.net/clojure/2021/10/18/finding-my-inner-wes-anderson.html</sup>
+
+Slow Down, Finish Faster\
+<sup>→ https://briandicroce.com/slow-down-finish-faster/</sup>
+
 Understanding AWK\
 <sup>→ https://earthly.dev/blog/awk-examples/</sup>
 
@@ -12,6 +24,9 @@ Understanding AWK\
 
 What is your labor worth? Tech compensation in 2021\
 <sup>→ https://jacobian.org/2021/oct/13/tech-salaries-2021/</sup>
+
+Willingness to look stupid\
+<sup>→ https://danluu.com/look-stupid/</sup>
 
 What to learn\
 <sup>→ https://danluu.com/learn-what/</sup>
