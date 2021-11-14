@@ -1,8 +1,32 @@
-<sup><i>Last update: October 22, 2021</i></sup>
+<sup><i>Last update: November 14, 2021</i></sup>
 
 ---
 
 # :closed_book: Reading Log
+
+Tez Art Fund - Artist Interview - Frederik Vanhoutte\
+<sup>→ https://beta.cent.co/tezartfund/+bnixf3</sup>
+
+Why make mathematics instruction boring?\
+<sup>→ https://anthonybonato.com/2018/03/07/why-make-mathematics-instruction-boring/</sup>
+
+Myths of Lisp: Curse that didn't really happen?\
+<sup>→ https://freshcodeit.com/freshcode-post/myths-of-lisp-curse</sup>
+
+NFT's Aren't the Answer to the IRL Problems of Digital Art\
+<sup>→ https://www.jacquescorbytuech.com/writing/irl-problem-digital-art-nft</sup>
+
+What Value Does an Artist Have?\
+<sup>→ https://www.jacquescorbytuech.com/writing/what-value-does-an-artist-have</sup>
+
+The values of Emacs, the Neovim revolution, and the VSCode gorilla\
+<sup>→ https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/</sup>
+
+In Conversation with Ben Kovach\
+<sup>→ https://beta.cent.co/artblocks/+1nxjn8</sup>
+
+The Company Man\
+<sup>→ https://torontolife.com/city/this-man-is-the-jeff-bezos-of-the-international-drug-trade/</sup>
 
 I built the entire universe (and beyond) in JavaScript\
 <sup>→ https://www.jesuisundev.com/en/i-built-the-entire-universe-in-javascript/</sup>
