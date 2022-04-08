@@ -136,9 +136,6 @@ What makes Generative Art hard?\
 6 Years of Professional Clojure\
 <sup>→ https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983</sup>
 
-10 Technologies You Need to be Aware of (2020)\
-<sup>→ https://jonpauluritis.com/articles/10-technologies-you-need-to-be-aware-of-2020/</sup>
-
 Reconsidering the way I explain programming\
 <sup>→ https://blog.frantic.im/all/explain-programming/</sup>
 
